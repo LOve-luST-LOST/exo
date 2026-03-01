@@ -35,4 +35,4 @@ Linux CUDA Support -- depends heavily on ecosystem
 Windows CUDA Support
 
 Windows CPU Support
-
+Alice Fosseneuve
